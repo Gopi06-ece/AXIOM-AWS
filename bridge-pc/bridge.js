@@ -39,7 +39,7 @@ const SERVERS = [
 // ═══════════════════════════════════════════════
 // ── ACCESS CODE — must match AXIOM_ACCESS_CODE used on the website ──
 // ═══════════════════════════════════════════════
-const BRIDGE_ACCESS_CODE = "ongc2024"; // ← set same code as your website env var
+const BRIDGE_ACCESS_CODE = "contact for access code"; // ← set same code as your website env var
 
 // ═══════════════════════════════════════════════
 // BRIDGE — connects all servers, sends to dashboard
