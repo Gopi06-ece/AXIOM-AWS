@@ -77,6 +77,51 @@ Notifications - Nodemailer + Gmail
 
 ✅ Email notification when bridge comes online
 
+# PROJECT STRUCTURE
+
+AXIOM AWS/ 
+
+|-website/ -
+            
+            |- node_modules/
+            
+            |- public/
+
+                      |-index
+
+                      |-dashboard
+
+            |- gitignore
+
+            |-package
+
+            |-package-lock
+
+            |-procfile
+
+            |-server.js
+                      
+
+|-bridge pc/
+
+            |-node_modules/
+
+            |-bridge.js
+
+            |-cloudflare.log
+
+            |-package
+
+            |-package-lock
+
+            |-server.py
+
+            |-START_AXIOM
+
+            |-STOP_AXIOM
+
+
+
 # SETUP
 
 Bridge PC (ONGC Site)
